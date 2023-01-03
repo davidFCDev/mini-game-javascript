@@ -8,7 +8,7 @@ Minijuego creado con HTML, CSS y javascript
 
 ## Ver ejemplo en vivo
 
-- [Website](https://github.com/davidFCDev/mini-game-javascript/blob/main/assets/imagen-minijuego.png)
+- [Website](https://davidfcdev.github.io/mini-game-javascript/)
 
 ## Instalación
 
