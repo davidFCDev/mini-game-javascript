@@ -12,6 +12,7 @@ Minijuego creado con HTML, CSS y javascript
 
 ## Instalación
 
+No requiere de instalación.
 
 ## Preview
 
