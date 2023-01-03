@@ -16,4 +16,4 @@ No requiere de instalación.
 
 ## Preview
 
-![Image text](https://github.com/davidFCDev/mini-game-javascript/blob/main/assets/imagen-minijuego.png)
+![Image text](https://github.com/davidFCDev/mini-game-javascript/blob/main/imagen-minijuego.png)
