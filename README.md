@@ -8,7 +8,7 @@ Minijuego creado con HTML, CSS y javascript
 
 ## Ver ejemplo en vivo
 
-- [Website](https://davidfcdev.github.io/mini-game-javascript/)
+- [Website](https://personal-virtualfolio.netlify.app/)
 
 ## Instalación
 
